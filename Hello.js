@@ -1,1 +1,1 @@
-console.log("Hello, QuiSCKeR!")//Hello
+console.log("Hello, QuiSCKeR!")//Hello!
